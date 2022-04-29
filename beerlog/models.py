@@ -1,4 +1,4 @@
-from sqlmodel import SQLModel, Field, select
+from sqlmodel import SQLModel, Field
 from typing import Optional
 from pydantic import validator
 from statistics import mean
